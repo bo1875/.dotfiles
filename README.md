@@ -5,11 +5,11 @@ I created these files mostly following https://github.com/josean-dev/dev-environ
 
 ## tumx
 
-tmux.conf is an exact copy from Josean's setup. More details can refer his blog post: https://www.josean.com/posts/tmux-setup
+tmux.conf is an exact copy from Josean's setup. More details can be refered to his blog post: https://www.josean.com/posts/tmux-setup
 
 ## neovim
 
-neovim setup is also mostly following Josean:
+The neovim setup is also mostly following Josean:
 
 - lazy.nvim for plugins management.
 - mason.nvim for lsp management.
