@@ -114,3 +114,6 @@ source $ZSH/oh-my-zsh.sh
 
 # alias for manage config files in git
 alias config='git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+
+[[ ! -f ~/.zsh_personal ]] || source ~/.zsh_personal
+
